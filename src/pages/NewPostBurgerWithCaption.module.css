@@ -1,0 +1,216 @@
+.newPostBurgerWithCaptionChild {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 357px;
+  height: 735px;
+}
+.newPostBurgerWithCaptionItem {
+  position: absolute;
+  top: 51px;
+  left: 6px;
+  width: 118px;
+  height: 118px;
+  object-fit: cover;
+}
+.newPostBurgerWithCaptionInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 357px;
+  height: 51px;
+}
+.lineDiv,
+.newPostBurgerWithCaptionChild1 {
+  position: absolute;
+  top: 50.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 358px;
+  height: 1px;
+}
+.newPostBurgerWithCaptionChild1 {
+  top: 707.5px;
+  border-top: 1px solid var(--color-darkslategray-300);
+}
+.newPost {
+  position: absolute;
+  top: 8px;
+  left: 117px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 124px;
+  height: 35px;
+}
+.addIcon {
+  position: absolute;
+  top: 87px;
+  left: 139px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 175px;
+  left: 6px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 345px;
+  height: 41px;
+}
+.thisHamburgerIs {
+  position: absolute;
+  top: 183px;
+  left: 13px;
+  white-space: pre-wrap;
+}
+.newPostBurgerWithCaptionChild2 {
+  position: absolute;
+  top: 227px;
+  left: 6px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 345px;
+  height: 98px;
+}
+.description {
+  position: absolute;
+  top: 233px;
+  left: 13px;
+  opacity: 0.29;
+}
+.selectAudience {
+  position: absolute;
+  top: 397px;
+  left: 13px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 213px;
+  height: 28px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-royalblue);
+  border: 1px solid var(--color-skyblue);
+  box-sizing: border-box;
+  width: 262px;
+  height: 36px;
+  cursor: pointer;
+}
+.rectangleParent,
+.share {
+  position: absolute;
+  top: 3px;
+  left: 101px;
+}
+.rectangleParent {
+  top: 723px;
+  left: 48px;
+  width: 262px;
+  height: 36px;
+  font-size: var(--font-size-5xl);
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 345px;
+  height: 41px;
+}
+.addPollLink,
+.expandArrowIcon {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+}
+.expandArrowIcon {
+  left: 304px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 336px;
+  left: 6px;
+  width: 345px;
+  height: 41px;
+}
+.communities,
+.nus,
+.public {
+  position: absolute;
+  top: 1.64%;
+  left: 0;
+}
+.communities,
+.nus {
+  top: 38.52%;
+}
+.communities {
+  top: 75.41%;
+}
+.toggleChild {
+  width: 24px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  height: 24px;
+}
+.toggle,
+.toggle1,
+.toggle2 {
+  position: absolute;
+  height: 26.23%;
+  width: 20.32%;
+  top: -0.82%;
+  right: 0;
+  bottom: 74.59%;
+  left: 79.68%;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs);
+}
+.toggle1,
+.toggle2 {
+  top: 72.95%;
+  bottom: 0.82%;
+}
+.toggle2 {
+  top: 36.07%;
+  bottom: 37.7%;
+}
+.component1 {
+  position: absolute;
+  top: 445px;
+  left: 23px;
+  width: 315px;
+  height: 122px;
+  font-size: var(--font-size-5xl);
+}
+.newPostBurgerWithCaption {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 778px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}

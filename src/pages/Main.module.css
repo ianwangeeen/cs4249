@@ -1,0 +1,155 @@
+.mainChild,
+.mainItem {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 357px;
+  height: 699px;
+}
+.mainItem {
+  top: 0;
+  background-color: var(--color-black);
+  height: 79px;
+}
+.locationIcon {
+  position: absolute;
+  top: 46px;
+  left: 13px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.nus {
+  position: absolute;
+  top: 35px;
+  left: 15px;
+  display: inline-block;
+  width: 18px;
+  height: 11px;
+}
+.chatBubbleIcon,
+.searchIcon {
+  position: absolute;
+  top: 43px;
+  left: 281px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.chatBubbleIcon {
+  left: 316px;
+  object-fit: contain;
+}
+.lineDiv,
+.mainChild1,
+.mainInner {
+  position: absolute;
+  top: 78.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 358px;
+  height: 1px;
+}
+.lineDiv,
+.mainChild1 {
+  top: 154px;
+  left: -2px;
+  border-top: 4px solid var(--color-darkslategray-400);
+  width: 361px;
+  height: 4px;
+}
+.mainChild1 {
+  top: 699.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-300);
+  width: 358px;
+  height: 1px;
+}
+.groupChild {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightsteelblue);
+  width: 48px;
+  height: 48px;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  display: inline-block;
+  width: 26px;
+  height: 46px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 655px;
+  left: 293px;
+  width: 48px;
+  height: 49px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-black);
+}
+.image1Icon,
+.photo202404031116411Icon {
+  position: absolute;
+  top: 44px;
+  left: 130px;
+  width: 97px;
+  height: 27px;
+  object-fit: cover;
+}
+.photo202404031116411Icon {
+  top: 15px;
+  left: 0;
+  width: 357px;
+  height: 778px;
+}
+.cancel,
+.photo202404031116412Icon {
+  position: absolute;
+  left: 0;
+  cursor: pointer;
+}
+.photo202404031116412Icon {
+  top: 159px;
+  width: 118px;
+  height: 118px;
+  object-fit: cover;
+}
+.cancel {
+  top: 69px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 83px;
+  height: 33px;
+}
+.mainChild2,
+.rectangleIcon {
+  position: absolute;
+  top: 159px;
+  left: 120px;
+  width: 118px;
+  height: 118px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.mainChild2 {
+  left: 240px;
+  width: 117px;
+}
+.main {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 778px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

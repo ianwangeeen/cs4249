@@ -1,0 +1,69 @@
+.property1defaultChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+}
+.dogIcon,
+.pets {
+  position: absolute;
+}
+.dogIcon {
+  height: 64.52%;
+  width: 64.52%;
+  top: 17.74%;
+  right: 17.74%;
+  bottom: 17.74%;
+  left: 17.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pets {
+  top: 100%;
+  left: 32.26%;
+}
+.property1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 62px;
+  height: 62px;
+}
+.property1variant2Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue);
+}
+.property1variant2 {
+  position: absolute;
+  top: 102px;
+  left: 20px;
+  width: 62px;
+  height: 62px;
+  color: var(--color-lightskyblue);
+}
+.property1defaultParent {
+  width: 102px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 184px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}

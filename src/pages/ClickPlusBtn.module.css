@@ -1,0 +1,226 @@
+.clickPlusBtnChild,
+.clickPlusBtnItem {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 357px;
+  height: 699px;
+}
+.clickPlusBtnItem {
+  top: 0;
+  height: 79px;
+}
+.locationIcon {
+  position: absolute;
+  top: 46px;
+  left: 13px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.nus {
+  position: absolute;
+  top: 35px;
+  left: 15px;
+  display: inline-block;
+  width: 18px;
+  height: 11px;
+}
+.chatBubbleIcon,
+.searchIcon {
+  position: absolute;
+  top: 43px;
+  left: 281px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.chatBubbleIcon {
+  left: 316px;
+  object-fit: contain;
+}
+.clickPlusBtnInner {
+  position: absolute;
+  top: 78.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 358px;
+  height: 1px;
+}
+.image2Icon,
+.image3Icon,
+.image4Icon {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  width: 357px;
+  height: 549px;
+  object-fit: cover;
+}
+.image2Icon,
+.image3Icon {
+  top: 704px;
+  height: 56px;
+}
+.image3Icon {
+  top: 79px;
+  width: 361px;
+  height: 66px;
+}
+.clickPlusBtnChild1,
+.lineDiv {
+  position: absolute;
+  top: 154px;
+  left: -2px;
+  border-top: 4px solid var(--color-darkslategray-400);
+  box-sizing: border-box;
+  width: 361px;
+  height: 4px;
+}
+.clickPlusBtnChild1 {
+  top: 699.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-300);
+  width: 358px;
+  height: 1px;
+}
+.groupChild {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightsteelblue);
+  width: 48px;
+  height: 48px;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  display: inline-block;
+  width: 26px;
+  height: 46px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 655px;
+  left: 293px;
+  width: 48px;
+  height: 49px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-black);
+}
+.image1Icon {
+  position: absolute;
+  top: 44px;
+  left: 130px;
+  width: 97px;
+  height: 27px;
+  object-fit: cover;
+}
+.groupItem,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 357px;
+}
+.rectangleDiv {
+  background-color: rgba(0, 0, 0, 0.43);
+  height: 672px;
+}
+.groupItem {
+  border-radius: var(--br-9xl) var(--br-9xl) 0 0;
+  background-color: var(--color-gray-200);
+  height: 147px;
+}
+.groupInner {
+  position: absolute;
+  top: 17px;
+  left: 139px;
+  border-top: 8px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 74px;
+  height: 8px;
+}
+.takePhotosOr {
+  position: absolute;
+  top: 34px;
+  left: 22px;
+  display: inline-block;
+  width: 301px;
+  height: 37px;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  width: 289px;
+  height: 50.9px;
+}
+.addMediaFrom {
+  position: absolute;
+  top: 8.9px;
+  left: 26px;
+  display: inline-block;
+  width: 232px;
+  height: 25px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 71px;
+  left: 34px;
+  width: 289px;
+  height: 50.9px;
+  cursor: pointer;
+  color: var(--color-black);
+}
+.rectangleParent {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 357px;
+  height: 147px;
+}
+.popup,
+.popup1,
+.slidable {
+  position: absolute;
+  left: calc(50% - 178.5px);
+  width: 357px;
+  overflow: hidden;
+}
+.popup1 {
+  bottom: -18px;
+  border-radius: var(--br-9xl) var(--br-9xl) 0 0;
+  background-color: var(--color-gray-300);
+  height: 144px;
+}
+.popup,
+.slidable {
+  bottom: 0;
+  height: 778px;
+}
+.popup {
+  border-radius: var(--br-9xl) var(--br-9xl) 0 0;
+  background-color: var(--color-gray-300);
+  height: 127px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-itim);
+}
+.clickPlusBtn {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 778px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

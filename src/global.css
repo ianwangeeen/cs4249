@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itim:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-itim: Itim;
+
+  /* font sizes */
+  --font-size-18xl: 37px;
+  --font-size-5xs: 8px;
+  --font-size-4xl: 23px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-lightsteelblue: #badcff;
+  --color-darkslategray-100: #3c3c3c;
+  --color-darkslategray-200: #313131;
+  --color-darkslategray-300: #303030;
+  --color-darkslategray-400: #2e2e2e;
+  --color-gray-100: #909090;
+  --color-gray-200: #121212;
+  --color-gray-300: rgba(255, 255, 255, 0);
+  --color-whitesmoke: #efefef;
+  --color-gainsboro-100: #e7e7e7;
+  --color-gainsboro-200: #dbdbdb;
+  --color-gainsboro-300: #d9d9d9;
+  --color-darkgray: #969696;
+  --color-royalblue: #0060c2;
+  --color-skyblue: #56d6ff;
+  --color-blueviolet: #9747ff;
+  --color-cornflowerblue-100: #81b3ff;
+  --color-cornflowerblue-200: #3b91df;
+  --color-lightskyblue: #7acfff;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-9xl: 28px;
+  --br-mini: 15px;
+  --br-81xl: 100px;
+  --br-7xs: 6px;
+  --br-xs: 12px;
+  --br-8xs: 5px;
+}

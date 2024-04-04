@@ -1,0 +1,134 @@
+.startChild,
+.startItem {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 357px;
+  height: 699px;
+}
+.startItem {
+  top: 0;
+  height: 79px;
+}
+.locationIcon {
+  position: absolute;
+  top: 46px;
+  left: 13px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.nus {
+  position: absolute;
+  top: 35px;
+  left: 15px;
+  display: inline-block;
+  width: 18px;
+  height: 11px;
+}
+.chatBubbleIcon,
+.searchIcon {
+  position: absolute;
+  top: 43px;
+  left: 281px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.chatBubbleIcon {
+  left: 316px;
+  object-fit: contain;
+}
+.startInner {
+  position: absolute;
+  top: 78.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 358px;
+  height: 1px;
+}
+.image2Icon,
+.image3Icon,
+.image4Icon {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  width: 357px;
+  height: 549px;
+  object-fit: cover;
+}
+.image2Icon,
+.image3Icon {
+  top: 704px;
+  height: 56px;
+}
+.image3Icon {
+  top: 79px;
+  width: 361px;
+  height: 66px;
+}
+.lineDiv,
+.startChild1 {
+  position: absolute;
+  top: 154px;
+  left: -2px;
+  border-top: 4px solid var(--color-darkslategray-400);
+  box-sizing: border-box;
+  width: 361px;
+  height: 4px;
+}
+.startChild1 {
+  top: 699.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray-300);
+  width: 358px;
+  height: 1px;
+}
+.groupChild {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightsteelblue);
+  width: 48px;
+  height: 48px;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  display: inline-block;
+  width: 26px;
+  height: 46px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 655px;
+  left: 293px;
+  width: 48px;
+  height: 49px;
+  cursor: pointer;
+  font-size: var(--font-size-18xl);
+  color: var(--color-black);
+}
+.image1Icon {
+  position: absolute;
+  top: 44px;
+  left: 130px;
+  width: 97px;
+  height: 27px;
+  object-fit: cover;
+}
+.start {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 778px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

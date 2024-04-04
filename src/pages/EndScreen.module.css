@@ -1,0 +1,32 @@
+.endScreenChild {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 357px;
+  height: 735px;
+}
+.endScreenItem,
+.postHasBeen {
+  position: absolute;
+  top: 374px;
+  left: 64px;
+}
+.endScreenItem {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 357px;
+  height: 51px;
+}
+.endScreen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 778px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}
